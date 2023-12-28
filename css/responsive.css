@@ -1,0 +1,54 @@
+
+@media (max-width:1200px){
+
+}
+/*Desktop*/
+@media (max-width:991px){
+    .col2 ul li a{
+       
+        font-size:10px ;
+        
+    }
+    .sec2box{
+    flex-basis: 100%;
+   margin-bottom: 40px;
+
+    }
+    .s3left p {
+        line-height: 40px;
+    }
+    .s5box {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+
+}
+/*laptop*/
+@media (max-width:767px){
+.col1{
+    flex-basis: 100%;
+
+}
+.col2{
+    flex-basis: 100%;
+    
+}
+}
+/*tablet*/
+@media (max-width:576px){
+.sec1{
+    padding: 0px 0px;
+}
+.s7box {
+    padding-left: 5px;
+    padding-right: 4px;
+}
+.sec2 {
+    padding: 80px 100px 0px 60px;
+}
+.s6rowbottom img {
+    margin: 4px;
+}
+}
+/*mobile*/
+
